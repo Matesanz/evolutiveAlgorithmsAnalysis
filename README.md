@@ -9,9 +9,13 @@ En ellos se modifican distintas variables como el **número de genes** o la** lo
 
 Aquí se puede ver algunas de las relaciones extraídas de este estudio:
 
+**OneMax**
+
 ![](https://github.com/Matesanz/evolutiveAlgorithmsAnalysis/blob/master/graphs/oneMax/Iterations_vs_Individuos_vs_GN_2.png)
 
-![](https://github.com/Matesanz/evolutiveAlgorithmsAnalysis/blob/master/graphs/subsetSum/Iterations_vs_Individuos_vs_GNpng.png)
+**Subset Sum**
+
+![](https://github.com/Matesanz/evolutiveAlgorithmsAnalysis/blob/master/graphs/subsetSum/Iterations_vs_Individuos_vs_GN_2.png)
 
 Para ello se aporta:
 
