@@ -5,7 +5,7 @@ Estudio realizado para la asignatura de **Algoritmos Evolutivos** del **Máster 
 - **OneMax Problem**
 - **Subset Sum Problem**
 
-En ellos se modifican distintas variables como el **número de genes** o la** longitud** de los mismos y la **población** total y se analiza cómo afecta esto al **número de iteraciones** totales resultantes de cada ejecución.
+En ellos se modifican distintas variables como el **número de genes** o la **longitud** de los mismos y la **población** total y se analiza cómo afecta esto al **número de iteraciones** totales resultantes de cada ejecución.
 
 Aquí se puede ver algunas de las relaciones extraídas de este estudio:
 
